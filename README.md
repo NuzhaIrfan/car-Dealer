@@ -21,33 +21,6 @@ A modern React-based car showcase featuring 3D flipping animations, theme toggli
 - **Hosting**: Vercel
 - **State Management**: React Hooks
 
-## 🚀 Quick Start
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/car-dealership-showcase.git
-   # 🚗 Car Dealership Showcase 
-
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://car-dealer-zeta.vercel.app/)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-
-A modern React-based car showcase featuring 3D flipping animations, theme toggling, and advanced search functionality. Built with performance and user experience in mind.
-
-## ✨ Key Features
-
-- **Interactive 3D Cards**: Click any vehicle to flip and view detailed specs
-- **Smart Theme Switching**: Toggle between light/dark modes with system preference detection
-- **Advanced Filtering**: Search by make, model, price range, and fuel type
-- **Responsive Design**: Fully functional on mobile, tablet, and desktop
-- **Performance Optimized**: 60fps animations with Framer Motion
-
-## 🛠 Tech Stack
-
-- **Frontend**: React.js
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Hosting**: Vercel
-- **State Management**: React Hooks
 
 ## 🚀 Quick Start
 
@@ -97,13 +70,13 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for details.
 
 📧 Connect
-GitHub: @your-username
+GitHub: @NuzhaIrfan
 
-LinkedIn: Your Name
+LinkedIn: Nuzha Irfan
 
 Live Demo: car-dealer-zeta.vercel.app
 
-text
+
 
 ### Key Highlights:
 1. **Badges**: Professional shields.io badges for demo and license
@@ -112,14 +85,4 @@ text
 4. **Tech Stack**: Clearly listed for recruiters
 5. **Mobile-Friendly**: Uses simple markdown that renders well everywhere
 
-To use:
-1. Copy this entire text
-2. Paste into your `README.md` file
-3. Replace `your-username` with your actual GitHub username
-4. Update the "Connect" section with your real links
 
-Would you like me to:
-1. Add a features GIF/video instead of screenshots?
-2. Include setup instructions for contributors?
-3. Add a "Lessons Learned" section?
-New chat
