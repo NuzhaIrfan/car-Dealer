@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Camry XSE",
+    "year": 2023,
+    "price": 34999,
+    "mileage": 12500,
+    "image": "../assets/camry.jpg",
+    "fuelType": "Hybrid",
+    "engine": "2.5L Dynamic Force 4-cylinder",
+    "transmission": "8-speed Direct Shift automatic",
+    "horsepower": 206,
+    "mpg": "44 city / 47 highway",
+    "exteriorColor": "Midnight Black Metallic",
+    "interiorColor": "Black SofTex",
+    "drivetrain": "Front-Wheel Drive",
+    "features": [
+      "Panoramic sunroof",
+      "Heated/ventilated front seats",
+      "12.3-inch touchscreen",
+      "JBL premium audio",
+      "Digital rearview mirror",
+      "Wireless charging"
+    ],
+    "safety": [
+      "Toyota Safety Sense 2.5+",
+      "Blind Spot Monitor",
+      "Rear Cross-Traffic Alert"
+    ]
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic Touring",
+    "year": 2022,
+    "price": 28999,
+    "mileage": 8500,
+    "image": "../assets/lexus.jpg",
+    "fuelType": "Gasoline",
+    "engine": "1.5L Turbocharged 4-cylinder",
+    "transmission": "CVT with Sport Mode",
+    "horsepower": 180,
+    "mpg": "32 city / 42 highway",
+    "exteriorColor": "Sonic Gray Pearl",
+    "interiorColor": "Black Leather",
+    "drivetrain": "Front-Wheel Drive",
+    "features": [
+      "10.2-inch digital instrument cluster",
+      "9-inch touchscreen",
+      "Bose premium audio",
+      "Wireless Apple CarPlay/Android Auto",
+      "Heated steering wheel"
+    ],
+    "safety": [
+      "Honda Sensing Suite",
+      "Collision Mitigation Braking",
+      "Road Departure Mitigation"
+    ]
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang GT Premium",
+    "year": 2021,
+    "price": 45999,
+    "mileage": 7200,
+    "image": "../assets/ford.jpg",
+    "fuelType": "Gasoline",
+    "engine": "5.0L Coyote V8",
+    "transmission": "6-speed manual",
+    "horsepower": 450,
+    "mpg": "16 city / 24 highway",
+    "exteriorColor": "Velocity Blue",
+    "interiorColor": "Ebony Leather",
+    "drivetrain": "Rear-Wheel Drive",
+    "features": [
+      "Active valve performance exhaust",
+      "MagneRide damping system",
+      "12-inch digital instrument cluster",
+      "B&O premium audio",
+      "Recaro sport seats"
+    ],
+    "safety": [
+      "Blind Spot Information System",
+      "Rear View Camera",
+      "Tire Pressure Monitoring"
+    ]
+  },
+  {
+    "id": 4,
+    "make": "Tesla",
+    "model": "Model 3 Long Range",
+    "year": 2023,
+    "price": 47990,
+    "mileage": 3500,
+    "image": "../assets/tesla.jpg",
+    "fuelType": "Electric",
+    "engine": "Dual Motor AWD",
+    "transmission": "Single-speed fixed gear",
+    "horsepower": 346,
+    "range": "358 miles",
+    "exteriorColor": "Deep Blue Metallic",
+    "interiorColor": "Black Vegan Leather",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "15-inch touchscreen display",
+      "Premium interior lighting",
+      "Tesla Premium Audio",
+      "Power liftgate",
+      "Sentry Mode"
+    ],
+    "safety": [
+      "Autopilot",
+      "Collision Avoidance",
+      "Emergency Lane Departure Avoidance"
+    ]
+  },
+  {
+    "id": 5,
+    "make": "Toyota",
+    "model": "RAV4 Adventure",
+    "year": 2022,
+    "price": 35999,
+    "mileage": 18500,
+    "image": "../assets/camry.jpg",
+    "fuelType": "Gasoline",
+    "engine": "2.5L 4-cylinder",
+    "transmission": "8-speed automatic",
+    "horsepower": 203,
+    "mpg": "27 city / 35 highway",
+    "exteriorColor": "Lunar Rock",
+    "interiorColor": "Ash SofTex",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "Multi-Terrain Select",
+      "Roof rails with crossbars",
+      "8-inch touchscreen",
+      "Android Auto/Apple CarPlay",
+      "Power moonroof"
+    ],
+    "safety": [
+      "Toyota Safety Sense 2.0",
+      "Lane Tracing Assist",
+      "Automatic High Beams"
+    ]
+  },
+  {
+    "id": 6,
+    "make": "Honda",
+    "model": "Accord Hybrid Touring",
+    "year": 2023,
+    "price": 37999,
+    "mileage": 6200,
+    "image": "../assets/lexus.jpg",
+    "fuelType": "Hybrid",
+    "engine": "2.0L Atkinson-cycle 4-cylinder + electric motor",
+    "transmission": "e-CVT",
+    "horsepower": 212,
+    "mpg": "48 city / 47 highway",
+    "exteriorColor": "Still Night Pearl",
+    "interiorColor": "Ivory Leather",
+    "drivetrain": "Front-Wheel Drive",
+    "features": [
+      "12.3-inch touchscreen",
+      "Head-up display",
+      "Wireless charging",
+      "Heated rear seats",
+      "Parking sensors"
+    ],
+    "safety": [
+      "Honda Sensing 360",
+      "Traffic Jam Assist",
+      "Low-Speed Braking Control"
+    ]
+  },
+  {
+    "id": 7,
+    "make": "Ford",
+    "model": "F-150 Lariat",
+    "year": 2021,
+    "price": 58999,
+    "mileage": 22500,
+    "image": "../assets/ford.jpg",
+    "fuelType": "Gasoline",
+    "engine": "3.5L EcoBoost V6",
+    "transmission": "10-speed automatic",
+    "horsepower": 400,
+    "mpg": "20 city / 26 highway",
+    "exteriorColor": "Iconic Silver",
+    "interiorColor": "Black Leather",
+    "drivetrain": "4WD",
+    "features": [
+      "Ford Co-Pilot360 Assist 2.0",
+      "12-inch touchscreen",
+      "B&O sound system",
+      "Power running boards",
+      "Twin-panel moonroof"
+    ],
+    "safety": [
+      "Pre-Collision Assist",
+      "Lane-Keeping System",
+      "Pro Trailer Backup Assist"
+    ]
+  },
+  {
+    "id": 8,
+    "make": "Tesla",
+    "model": "Model Y Performance",
+    "year": 2023,
+    "price": 54990,
+    "mileage": 5000,
+    "image": "../assets/tesla.jpg",
+    "fuelType": "Electric",
+    "engine": "Dual Motor AWD",
+    "transmission": "Single-speed fixed gear",
+    "horsepower": 456,
+    "range": "303 miles",
+    "exteriorColor": "Red Multi-Coat",
+    "interiorColor": "White Vegan Leather",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "21-inch Überturbine wheels",
+      "Performance Brakes",
+      "Carbon fiber spoiler",
+      "Track Mode",
+      "Premium Connectivity"
+    ],
+    "safety": [
+      "Full Self-Driving Capability",
+      "360-degree cameras",
+      "Obstacle-Aware Acceleration"
+    ]
+  },
+  {
+    "id": 9,
+    "make": "Toyota",
+    "model": "Highlander Platinum",
+    "year": 2022,
+    "price": 48999,
+    "mileage": 15000,
+    "image": "../assets/camry.jpg",
+    "fuelType": "Hybrid",
+    "engine": "2.5L 4-cylinder + electric motors",
+    "transmission": "eCVT",
+    "horsepower": 243,
+    "mpg": "36 city / 35 highway",
+    "exteriorColor": "Ruby Flare Pearl",
+    "interiorColor": "Black Leather",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "12.3-inch touchscreen",
+      "JBL premium audio",
+      "Panoramic moonroof",
+      "Digital rearview mirror",
+      "Heated second-row seats"
+    ],
+    "safety": [
+      "Toyota Safety Sense 2.5",
+      "Rear Seat Reminder",
+      "Bird's Eye View Camera"
+    ]
+  },
+  {
+    "id": 10,
+    "make": "Honda",
+    "model": "Pilot Elite",
+    "year": 2023,
+    "price": 51999,
+    "mileage": 8000,
+    "image": "../assets/lexus.jpg",
+    "fuelType": "Gasoline",
+    "engine": "3.5L V6",
+    "transmission": "9-speed automatic",
+    "horsepower": 280,
+    "mpg": "19 city / 26 highway",
+    "exteriorColor": "Modern Steel Metallic",
+    "interiorColor": "Camel Leather",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "10.2-inch head-up display",
+      "Wireless phone charger",
+      "CabinTalk in-car PA system",
+      "Rear seat entertainment",
+      "Hands-free power tailgate"
+    ],
+    "safety": [
+      "Honda Sensing Elite",
+      "Traffic Jam Pilot",
+      "Low-Speed Follow"
+    ]
+  },
+  {
+    "id": 11,
+    "make": "Ford",
+    "model": "Bronco Badlands",
+    "year": 2022,
+    "price": 47999,
+    "mileage": 9500,
+    "image": "../assets/ford.jpg",
+    "fuelType": "Gasoline",
+    "engine": "2.7L EcoBoost V6",
+    "transmission": "10-speed automatic",
+    "horsepower": 330,
+    "mpg": "18 city / 20 highway",
+    "exteriorColor": "Cyber Orange",
+    "interiorColor": "Black Marine Grade Vinyl",
+    "drivetrain": "4WD",
+    "features": [
+      "Sasquatch Package",
+      "12-inch touchscreen",
+      "Trail Turn Assist",
+      "Front stabilizer bar disconnect",
+      "Rubberized flooring"
+    ],
+    "safety": [
+      "Ford Co-Pilot360",
+      "BLIS with Trailer Coverage",
+      "Post-Collision Braking"
+    ]
+  },
+  {
+    "id": 12,
+    "make": "Tesla",
+    "model": "Model S Plaid",
+    "year": 2023,
+    "price": 109990,
+    "mileage": 2500,
+    "image": "../assets/tesla.jpg",
+    "fuelType": "Electric",
+    "engine": "Tri Motor AWD",
+    "transmission": "Single-speed fixed gear",
+    "horsepower": 1020,
+    "range": "396 miles",
+    "exteriorColor": "Ultra Red",
+    "interiorColor": "Cream Vegan Leather",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "17-inch touchscreen",
+      "Yoke steering wheel",
+      "22-speaker audio system",
+      "0-60 mph in 1.99s",
+      "Carbon fiber decor"
+    ],
+    "safety": [
+      "Tesla Vision",
+      "Active Safety Features",
+      "Automatic Emergency Braking"
+    ]
+  },
+  {
+    "id": 13,
+    "make": "Toyota",
+    "model": "Tundra Platinum",
+    "year": 2022,
+    "price": 58999,
+    "mileage": 12500,
+    "image": "../assets/camry.jpg",
+    "fuelType": "Hybrid",
+    "engine": "3.5L Twin-Turbo V6 + electric motor",
+    "transmission": "10-speed automatic",
+    "horsepower": 437,
+    "mpg": "20 city / 24 highway",
+    "exteriorColor": "Wind Chill Pearl",
+    "interiorColor": "Black Leather",
+    "drivetrain": "4WD",
+    "features": [
+      "14-inch touchscreen",
+      "JBL premium audio",
+      "Panoramic moonroof",
+      "Multi-Terrain Monitor",
+      "Power running boards"
+    ],
+    "safety": [
+      "Toyota Safety Sense 2.5",
+      "Trailer Camera View",
+      "Parking Support Brake"
+    ]
+  },
+  {
+    "id": 14,
+    "make": "Honda",
+    "model": "CR-V Hybrid Touring",
+    "year": 2023,
+    "price": 38999,
+    "mileage": 7500,
+    "image": "../assets/lexus.jpg",
+    "fuelType": "Hybrid",
+    "engine": "2.0L Atkinson-cycle 4-cylinder + electric motor",
+    "transmission": "e-CVT",
+    "horsepower": 204,
+    "mpg": "40 city / 35 highway",
+    "exteriorColor": "Meteorite Gray Metallic",
+    "interiorColor": "Black Leather",
+    "drivetrain": "All-Wheel Drive",
+    "features": [
+      "9-inch touchscreen",
+      "Head-up display",
+      "Wireless charging",
+      "Hands-free power tailgate",
+      "Heated rear seats"
+    ],
+    "safety": [
+      "Honda Sensing 360",
+      "Traffic Sign Recognition",
+      "Cross Traffic Monitor"
+    ]
+  },
+  {
+    "id": 15,
+    "make": "Ford",
+    "model": "Maverick Lariat",
+    "year": 2023,
+    "price": 28999,
+    "mileage": 5000,
+    "image": "../assets/ford.jpg",
+    "fuelType": "Hybrid",
+    "engine": "2.5L 4-cylinder + electric motor",
+    "transmission": "eCVT",
+    "horsepower": 191,
+    "mpg": "42 city / 33 highway",
+    "exteriorColor": "Alto Blue Metallic",
+    "interiorColor": "Navy Pier Leather",
+    "drivetrain": "Front-Wheel Drive",
+    "features": [
+      "Ford Co-Pilot360",
+      "8-inch touchscreen",
+      "Bed outlet (400W)",
+      "FlexBed system",
+      "Cruise control"
+    ],
+    "safety": [
+      "Pre-Collision Assist",
+      "Lane-Keeping System",
+      "Auto High-Beam Headlamps"
+    ]
+  }
+]
